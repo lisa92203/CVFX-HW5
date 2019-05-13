@@ -39,13 +39,13 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 
 |Original|Image Alignment|+ Photoshop|
 |---|---|---|
-|<img src="./Results/Eve2_Origin.gif"> |||
+|<img src="./Results/Eve2_Origin.gif">|<img src="./Results/Eve2_IS.gif">|<img src="./Results/Eve2_PS.gif">|
 
 #### 謎你Q
 
 |Original|Image Alignment|+ Photoshop|
 |---|---|---|
-|![](https://i.imgur.com/twdyWwj.gif)|![](https://i.imgur.com/l4XraDp.gif)||
+|<img src="./Results/Q_Original_12.gif">|<img src="./Results/Q_Aligned_12.gif">|<img src="./Results/Q_PS.gif">|
 
 ### Stop motion
 
@@ -62,13 +62,13 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 
 |Original|Optical Flow|
 |---|---|
-|||
+|<img src="./Results/Eve1_Origin.gif">|<img src="./Results/Eve1_IS.gif">|
 
 #### 花語清華
 
 |Original|Optical Flow|
 |---|---|
-|||
+|<img src="./Results/Flower_Origin.gif">|<img src="./Results/Flower_IS.gif">|
 
 ## Image processing
 
@@ -90,4 +90,4 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 
 |Original Live Photo|Motion Still|Optical Flow|
 |---|---|---|
-|![](https://i.imgur.com/0l5yZAr.gif)|![](https://i.imgur.com/1RvQh2r.gif)|![](https://i.imgur.com/R7P76BO.gif)|
+|<img src="./Results/Cat_LivePhoto.gif">|<img src="./Results/Cat_MotionStill.gif">|<img src="./Results/Cat_Code.gif">|
