@@ -43,6 +43,8 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 
 #### 謎你Q
 
+謎你Q的背景因為比較遠，所以效果明顯很多，而且因為有景深的關係，也能更準確抓到謎你Q的Feature Points，在Image Alignment的部分效果就非常好了，再加上Photoshop則是更凸顯效果。
+
 |Original|Image Alignment|+ Photoshop|
 |---|---|---|
 |<img src="./Results/Q_Original_12.gif">|<img src="./Results/Q_Aligned_12.gif">|<img src="./Results/Q_PS.gif">|
@@ -57,14 +59,19 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 5. 對第二張圖片和第三張圖片、第三張圖片和第四張圖片......重複步驟1~4，以取得移動軌跡
 6. 平滑移動軌跡，並以此計算新的Transformation矩陣
 7. 根據新的Transformation矩陣來達到將多角度的照片串聯成穩定Stop Motion的效果
+經過Optical Flow的處理，整體效果比較穩定，利用一台手機就可以製造出多台環繞的效果，比較可惜的是，這樣的方式不適用於主體會動的效果像是範例中人跳起來或是披風會動。
 
 #### 卡納赫拉伊布
+
+經過Optical Flow的處理，整體效果比較穩定，但是椅子的旋轉幅度較小。
 
 |Original|Optical Flow|
 |---|---|
 |<img src="./Results/Eve1_Origin.gif">|<img src="./Results/Eve1_IS.gif">|
 
 #### 花語清華
+
+經過Optical Flow的處理，整體效果比較穩定，但是花的旋轉幅度較小。
 
 |Original|Optical Flow|
 |---|---|
