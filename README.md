@@ -76,6 +76,10 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 2. Photoshop：直接把第一張圖片的主體剪下來貼到align圖片的同一個位置，完全去除主體的變動，達到更好的效果。
 3. Mask：一開始我們其實是使用坐在黑綠椅子上的卡納赫拉伊布做Motion Parallax，但因為Feature會一直抓到椅子，所以我們嘗試使用Photoshop來做一個mask限制他，可是效果仍然不是很好，試了方框的mask和沿著娃娃做的mask都失敗，所以後來我們就重新拍了一組照片。
 
+|![](https://i.imgur.com/xsH3srn.png)|![](https://i.imgur.com/ZHzmcE6.png)|![](https://i.imgur.com/bhEm4Iv.jpg)|![](https://i.imgur.com/3iQADdi.jpg)|
+|---|---|---|---|
+|![](https://i.imgur.com/HKuU9Ue.png)|![](https://i.imgur.com/CZAlsmM.png)|![](https://i.imgur.com/vprpGXS.jpg)|![](https://i.imgur.com/gR1Bxq2.jpg)|
+
 ## Bonus
 
 ### Motion parallax
