@@ -5,6 +5,12 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 
 我們總共拍攝了四組照片，自己的娃娃，圍繞他一共拍攝了五張。
 
+|![](https://i.imgur.com/fA6yeZy.jpg)|![](https://i.imgur.com/93JqKpR.jpg)|
+|---|---|
+
+|![](https://i.imgur.com/fFutD1h.jpg)|![](https://i.imgur.com/D1WdwNN.jpg)|
+|---|---|
+
 |![](https://i.imgur.com/hebv2Ox.jpg)|![](https://i.imgur.com/2U5PVdN.jpg)|![](https://i.imgur.com/2zQVn2c.jpg)|![](https://i.imgur.com/UJbqZ62.jpg)|![](https://i.imgur.com/pOJATKV.jpg)|
 |---|---|---|---|---|
 
@@ -31,7 +37,7 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 
 |Original|Image Alignment|
 |---|---|
-|<a href="https://imgur.com/twdyWwj"><img src="https://i.imgur.com/twdyWwj.gif" title="source: imgur.com" /></a>|![](https://i.imgur.com/l4XraDp.gif)|
+|![](https://i.imgur.com/twdyWwj.gif)|![](https://i.imgur.com/l4XraDp.gif)|
 
 ### Stop motion
 
