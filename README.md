@@ -39,7 +39,7 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 
 |Original|Image Alignment|+ Photoshop|
 |---|---|---|
-||||
+|<img src="./Results/Eve2_Origin.gif"> |||
 
 #### 謎你Q
 
