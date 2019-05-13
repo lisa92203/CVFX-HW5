@@ -31,7 +31,7 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 
 |Original|Image Alignment|
 |---|---|
-|![](https://i.imgur.com/twdyWwj.gif)|![](https://i.imgur.com/l4XraDp.gif)|
+|[Imgur](https://i.imgur.com/twdyWwj.gifv)|![](https://i.imgur.com/l4XraDp.gif)|
 
 ### Stop motion
 
