@@ -94,4 +94,4 @@ ISA525700 Computer Vision for Visual Effects<br/>Homework 5
 
 |Original Live Photo|Motion Still|Optical Flow|
 |---|---|---|
-|<img src="./Results/Cat_LivePhoto.gif">|<img src="./Results/Cat_MotionStill.gif">|<img src="./Results/Cat_Code.gif">|
+|<img src="./Results/Cat_LivePhoto.GIF">|<img src="./Results/Cat_MotionStill.GIF">|<img src="./Results/Cat_Code.gif">|
